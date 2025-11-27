@@ -87,7 +87,7 @@ plt.subplot(224);plt.imshow(edges3, cmap='gray');plt.axis('off'); plt.title('Edg
 
 Canny Edge Detection mainly depends on three parameters, and each influences the output differently.
 
-1)  Gaussian Blur Kernel Size (Noise Reduction Step)
+#### 1)  Gaussian Blur Kernel Size (Noise Reduction Step)
 
 Gaussian blur smooths the image before edge detection.
 
@@ -104,7 +104,7 @@ Effect:
 
 A larger kernel gives cleaner but fewer edges; a smaller kernel preserves details but may detect noise.
 
-2) Lower Threshold (T1) in Canny
+#### 2) Lower Threshold (T1) in Canny
 
 Used for detecting weak edges.
 
@@ -118,7 +118,7 @@ Effect:
     - Fewer edges appear
 
 
-3) Upper Threshold (T2) in Canny
+#### 3) Upper Threshold (T2) in Canny
 
 Used for detecting strong edges.
 
