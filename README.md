@@ -131,5 +131,5 @@ Effect:
     - Only strongest edges retained
     - Very clean but may miss important boundaries
 
-## RESULT
+### RESULT
 The Canny edge detection algorithm successfully extracted clear and sharp edges from the input image.
