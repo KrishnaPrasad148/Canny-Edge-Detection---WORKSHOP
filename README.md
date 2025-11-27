@@ -28,6 +28,10 @@ Plot the original, blurred, and edge-detected images using Matplotlib.
 Change Gaussian kernel sizes and threshold values to observe differences in detected edges.
 
 ### PROGRAM
+```
+Developed By : Krishna Prasad S
+Register No. : 212223230108
+```
 ```py
 import cv2
 import numpy as np
