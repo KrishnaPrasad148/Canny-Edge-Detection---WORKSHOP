@@ -1,10 +1,10 @@
 # Canny Edge Detection Implementation
 
-## AIM
+### AIM
 
 To implement the Canny Edge Detection algorithm on a sample image using Python and observe how different parameters affect the edge detection results.
 
-## PROCEDURE
+### PROCEDURE
 
 1) Import Required Libraries
 Import OpenCV, NumPy, and Matplotlib for image processing and visualization.
@@ -118,7 +118,7 @@ Effect:
     - Fewer edges appear
 
 
-3️⃣ Upper Threshold (T2) in Canny
+3) Upper Threshold (T2) in Canny
 
 Used for detecting strong edges.
 
