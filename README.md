@@ -1,10 +1,10 @@
 # Canny Edge Detection Implementation
 
-## AIM
+### AIM
 
 To implement the Canny Edge Detection algorithm on a sample image using Python and observe how different parameters affect the edge detection results.
 
-## PROCEDURE
+### PROCEDURE
 
 1) Import Required Libraries
 Import OpenCV, NumPy, and Matplotlib for image processing and visualization.
@@ -131,5 +131,5 @@ Effect:
     - Only strongest edges retained
     - Very clean but may miss important boundaries
 
-## RESULT
+### RESULT
 The Canny edge detection algorithm successfully extracted clear and sharp edges from the input image.
